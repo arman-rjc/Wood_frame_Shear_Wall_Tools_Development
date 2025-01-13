@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document Version="1">
+  <Page Index="0">
+    <Label>1</Label>
+    <Width>2592</Width>
+    <Height>1728</Height>
+    <Annotation>
+      <Page>1</Page>
+      <Contents />
+      <ModDate>2025-01-12T09:15:28.0000000Z</ModDate>
+      <Color>#FF0000</Color>
+      <Type>Polygon</Type>
+      <ID>WNUNFHKGKYZUEIWK</ID>
+      <TypeInternal>Bluebeam.PDF.Annotations.AnnotationPolygon</TypeInternal>
+      <Raw>789c5d515d6f1a3110fc2b7ecbf1d0f5aeed3ddb5584542e1f10ca050528a228aa2ec46a882817398e2afe7d7db4f44b7ef1cccecc8eb4e7e7f2538869bb09af6b4d4a101b06f65e906107c6e60f13433731258166f753a24b41960c30fbbf3cd62018272c23282348190f658ef81f7b63c11e0dca59207299a1df8c0665f3164407be149c3ddd32440fc664980d59e7ad03ab904497a9f94464889d8b54c9604ba195067d8ccd984aba97a36a4d8204decb699352887b3918dc3e3c4f53fc321f8e261f6f168b7a7e371bae56372745dd7c0b45d5ee3731a4d03bb155bb6b63cec22eeb6abbdbddbe349b6d3a080462392f3e544fedf7c7a7b778e8c92a86266ddbfd45934271f15ea1622452e8d128f70edd19e2594fcede1e9e8b69bb3b7c6df73d594f8a65bda8af86e3ebf1eaf3e272b41c1f25e9f012e42f95bc0b9bb4569ac194c21a03d6744760f0dd999800bdcfe58491d5a9e960964fbe142467f9cdbbac411b1f43ecf7e5e49f6ac47faaf5fb3f00b2648ad3</Raw>
+      <Index>0</Index>
+      <Subject>Polygon</Subject>
+      <CreationDate>2025-01-12T09:04:28.0000000Z</CreationDate>
+      <Author>AChowdhury</Author>
+    </Annotation>
+    <Scale>
+      <Page>1</Page>
+      <ID>DYVNLPWLFBOXWQQG</ID>
+      <Raw>789cb3b1d10fa92c48d50fcb4c2d2fc82f2ad17772caaf88365030503032b53452303437b288d5f74d4d2c2e2d4a05caf92765059414c507463ab9783b45f8048587f90705787beafbf96ab84486f9f90484fbb839f947840706ba6bdad901004caf1c5e</Raw>
+      <Ratio>0.125 in = 1 ft' in"</Ratio>
+      <Index>-1</Index>
+      <X1>0</X1>
+      <Y1>0</Y1>
+      <X2>2592</X2>
+      <Y2>1728</Y2>
+    </Scale>
+  </Page>
+  <GlobalResources>
+    <Resource>
+      <ID>789c0bf1f0f4f5f10a0df50b090af6888cf4020029ea04fe</ID>
+      <Raw>789c7552cb6e833010bce72bf607baf801064b88432ebdb45295e4d02aca216add14094844a89afe7ded5d4368a4240866c633bb6b4359264fae3b0c5f90a726d9fc9e5cf2b21f06d777e33368203dabbb21e24dddd4dd2192953b1fbffb77772ecbaa4a9ef7435f5fb61284ffd37d972c97c7cb36706dfcb54b5ed7833b7994bc4550558bf3d0bb7dbb9094e90f30d9a177f0c99560f5080233f821d242eab1802698888a2bf757143c6ac8499260ce79417ac32251413cd6f38f74e46408023bb8f3b5426c3dcbcc3ace324aa0cabc68236ac0609e812cee68d74c13046539ae52d4465b1385ff6b1265216d015a61aa03686efd774dbeade5f261004d63cfe41ca4e47e13bc31877983d570c61f9dc4b815ade3aefcb4a8332184e4850781850d3fcdabbc5fa590aa33a11ee32c2a360e0e3e6c1b068a5da72331588486120b497e69310099a230ec50a8732ed18e249b16a3cda74ca8d34ecaf83eb4401b222a43364c82f1674af3d2ee69aa96718e5a52780d0bd77df047ff076174c56e</Raw>
+    </Resource>
+    <Resource>
+      <ID>789c0b8c7472f1768af0090a0ff30f0af0f60400297404e6</ID>
+      <Raw>789c7dd04f0b82301880f1af32bca8877a37c9bc98108aa78af04f04d54163860767cc2de8db37950e6173bb6c87df9ef1fa3e64ef27853d2d3ac929a4b214fd3dd94162e125715c5433b4410455c25447c386f3e58b0eb229298f5bde140272cbb42144ca8c0b62b523e4401c21c1a57a3ab5ec20b84134eba7eea85c8f174a6ba43148474b87ee56d7edaa311c218227bfcd74eaeaacf11ff7933ce9f05daa79ce550bfea02267b5085bf6a2bcab5ba6468b3121aeb7c25e107c00e5da7ff5</Raw>
+    </Resource>
+  </GlobalResources>
+</Document>
